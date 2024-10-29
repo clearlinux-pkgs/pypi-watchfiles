@@ -7,7 +7,7 @@
 #
 Name     : pypi-watchfiles
 Version  : 0.22.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/53/e1/666771f0746f95c4df767ff98ff17fe55bb0c32ac88ec14ce0615a789330/watchfiles-0.22.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/53/e1/666771f0746f95c4df767ff98ff17fe55bb0c32ac88ec14ce0615a789330/watchfiles-0.22.0.tar.gz
 Source1  : http://localhost/cgit/vendor/pypi-watchfiles/snapshot/pypi-watchfiles-2024-07-03-23-17-56.tar.xz
