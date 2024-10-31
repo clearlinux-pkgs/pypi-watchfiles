@@ -1,0 +1,10 @@
+[source.crates-io]
+replace-with = "vendored-sources"
+
+[source."git+https://github.com/samuelcolvin/notify.git?branch=keep-io-error"]
+git = "https://github.com/samuelcolvin/notify.git"
+branch = "keep-io-error"
+replace-with = "vendored-sources"
+
+[source.vendored-sources]
+directory = "vendor"
